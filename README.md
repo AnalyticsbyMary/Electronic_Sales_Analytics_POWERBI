@@ -50,7 +50,7 @@ The dashboard is divided into three key views:
 - Objective:  Visualize the overall performance of the business in terms of total sales, profit, order volume, and quantity over time.
 - KPIs: Total Sales (₦1.23bn), Total Profit (₦174M), Total Quantity (1702 units), Total Orders (850 orders)
 - Trends: Sales Month-on-Month Change
-- key Insights: Sales by Product Category ( ), Top 5 Selling Products, Top 5 Locations by Sales, Impact of Unit Price on Total Sales
+- key Insights: Sales by Product Category (Laptop, 56%), Top 5 Selling Products (Acer Nitro 5), Top 5 Locations by Sales (Sapele), Impact of Unit Price on Total Sales
 
 2. Order and Delivery Tracking Dashboard
 
@@ -71,22 +71,18 @@ The dashboards uncover several meaningful business insights across sales, paymen
 - Sales Performance Year-over-Year (YoY): All major KPIs show a decline compared to the previous year. This signals a potential drop in demand that may require strategic intervention.
 - Price-Sales Relationship: There's a clear inverse relationship between unit prices and total sales (lower-priced items tend to drive more purchases). 
 - Payment Behavior: On average, customers complete their payments two days after placing an order. This short payment cycle indicates operational efficiency and good customer trust in the payment system.
-- Customer Retention: The majority of transactions and revenue come from repeat customers, showing that customer retention is strong. This loyal customer base is a valuable asset and should be nurtured further through.
+- Customer Retention: The majority of transactions and revenue come from repeat customers, showing that customer retention is strong. 
 
 ## Conclusion & Recommendations
 
 This analysis sheds light on areas the business is doing well and where improvements are needed. While customer retention is strong, overall sales and profit have dropped compared to the previous year. 
 
 To move forward:
-- Re-evaluate pricing strategies to balance profitability and volume.
+- The loyal customer base is a valuable asset and should be nurtured further through loyalty programs or personalized offers.
+- Dig deeper into the YoY decline to understand what changed whether it is fewer new customers, product issues, or external factors
 
-Dig deeper into the YoY decline to understand what changed—was it fewer new customers, product issues, or external factors?
 
-Leverage the loyal customer base with referral programs or exclusive deals.
 
-Maintain short payment cycles by keeping the checkout process smooth and trustworthy.
-
-These small shifts could help the business recover lost ground while building on its current strengths.
 
 
 
