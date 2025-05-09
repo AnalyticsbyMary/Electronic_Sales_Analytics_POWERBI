@@ -2,7 +2,6 @@
 
 ![Electronics-Shop](https://github.com/user-attachments/assets/93f26270-f75d-433a-bb97-bf536635937c)
 
-
 ## TASK
 
 Analyze the company's sales performance, order and delivery operations and customer engagement using provided datasets. The goal is to uncover insights that improve sales strategies, customer engagement, and operational efficiency.
@@ -43,7 +42,7 @@ To bring this project to life, I used a combination of core Power BI tools conce
 
 ## Dashboards
 
-The dashboard is divided into three key views:
+The dashboard is divided into three key views: [Interact with the dashboard here](https://app.powerbi.com/view?r=eyJrIjoiZjM5MjM2YzItMjM1Yy00MDYyLWIzOTktMDg2ODBjMDBmNTI2IiwidCI6Ijc3ZGJjZTk5LTYwNTQtNGFiYS04MjUwLTE5YzBlZmI0MzE4ZCJ9)
 
 1. Sales Overview Dashboard
    
@@ -81,7 +80,7 @@ To move forward:
 - The loyal customer base is a valuable asset and should be nurtured further through loyalty programs or personalized offers.
 - Dig deeper into the YoY decline to understand what changed whether it is fewer new customers, product issues, or external factors
 
-
+![2025](https://github.com/user-attachments/assets/d6bb7441-4847-4107-9a3d-811e60ef47f8)
 
 
 
