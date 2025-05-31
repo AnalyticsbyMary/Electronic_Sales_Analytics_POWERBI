@@ -19,7 +19,7 @@ This project leverages four key datasets:
 
 The business needed a clear and interactive way to:
 
-- Monitor and evaluate electronic device sales performance across different product categories and time periods.
+- Evaluate electronic device sales performance across different product categories and time periods.
 - Track order fulfillment and delivery status to improve logistics and customer satisfaction.
 - Understand customer engagement patterns, retention rates, and purchasing behavior through segmentation.
 
@@ -62,7 +62,7 @@ The dashboard is divided into three key views: [Interact with the dashboard here
    
 - Objective: Analyze customer behavior, segmentation, and revenue contribution.
 - KPIs: Total Customers (200), Active Customers (184), Customer Retention Rate (80%), Average Revenue Per Customer (₦943K)
-- Key Insights: Revenue Contribution by Segment, Customer Engagement Overview Table, Monthly Order by Segment
+- Key Insights: Revenue Contribution by Segment(Repeat customers and One-Time customers), Customer Engagement Overview Table, Monthly Order by Segment
 
 ## Performance Review
 
